@@ -1,6 +1,6 @@
 # Doors
 Welcome to "Doors". Your lightweight os created by MicroSlop :D https://microslop.com/ <br>
-Download of the .ova file is available at https://cloud.antol.eu/s/tcr9qdZPjwQYn2c
+Download of the .ova file is available at https://vutbr-my.sharepoint.com/:f:/g/personal/256754_vutbr_cz/IgCxMB280raLRIaiowGA1nvxARnsuN191YFSzRRUAGCETN4?e=fmGQHo
 
 # Použité příkazy:
 apt install --no-install-recommends xserver-xorg-video-vesa netsurf-gtk xpdf <br>
